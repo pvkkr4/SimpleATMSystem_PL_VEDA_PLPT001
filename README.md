@@ -11,7 +11,7 @@ A basic command-line ATM simulation in Python. It allows users to register, log 
 | [Menu.py](project/Menu.py)         | 🔷 **Main entry point**: Displays menu and connects all modules |
 | [Register.py](project/Register.py) | 📝 **Handles user registration** (username + PIN) |
 | [Login.py](project/Login.py)       | 🔐 **Validates user login** using username and PIN |
-| [Deposit.py]project/Deposit.py)   | 💰 **Lets users deposit money** after login |
+| [Deposit.py](project/Deposit.py)   | 💰 **Lets users deposit money** after login |
 | [Withdraw.py](project/Withdraw.py) | 💸 **Allows users to withdraw money** |
 | [Viewbalance.py](project/Viewbalance.py) | 📊 **Displays current account balance** |
 | [session.py](project/session.py)   | 🧠 **Manages session**: Stores currently logged-in user (e.g. in `session.txt`) |
