@@ -8,7 +8,7 @@ A basic command-line ATM simulation in Python. It allows users to register, log 
 
 | File / Module            | Description |
 |--------------------------|-------------|
-| [Menu.py](./Menu.py)         | 🔷 **Main entry point**: Displays menu and connects all modules |
+| [Menu.py](project/Menu.py)         | 🔷 **Main entry point**: Displays menu and connects all modules |
 | [Register.py](./Register.py) | 📝 **Handles user registration** (username + PIN) |
 | [Login.py](./Login.py)       | 🔐 **Validates user login** using username and PIN |
 | [Deposit.py](./Deposit.py)   | 💰 **Lets users deposit money** after login |
