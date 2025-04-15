@@ -18,7 +18,7 @@ def deposit():
             file.close()
             file = open(os.path.join("users",session.username + ".txt"),"a")
             file.write("\n")
-            file.write(session.username+" Deposit of "+str(amount)+" on "+time.asctime()+"\n")
+            file.write(str(session.username)+" made a Deposit of "+str(amount)+" on "+time.asctime()+"\n")
             file.close()
             print("Deposit successful. New balance is:", session.user_balance)
         else:
