@@ -22,12 +22,12 @@ A basic command-line ATM simulation in Python. It allows users to register, log 
 ->Run the main program  Menu.py
 
 ->Example commands:
-  |1 - Register a new account|
-  2 - Login to your account
-  3 - Deposit money
-  4 - Withdraw money
-  5 - Check balance
-  6 - Exit
+1 - Register a new account  
+2 - Login to your account  
+3 - Deposit money  
+4 - Withdraw money  
+5 - Check balance  
+6 - Exit  
 
 ->No additional dependencies required - uses Python standard library only
 
