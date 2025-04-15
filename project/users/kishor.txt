@@ -2,5 +2,5 @@ kishor
 123
 1
 
-300 Deposit of 300 on Mon Apr 14 21:20:09 2025
+kishor made a Deposit of 300 on Mon Apr 14 21:20:09 2025
 kishor has withdrawn 299 on Mon Apr 14 21:20:21 2025
