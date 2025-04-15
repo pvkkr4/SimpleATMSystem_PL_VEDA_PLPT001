@@ -20,7 +20,7 @@ A basic command-line ATM simulation in Python. It allows users to register, log 
 
 ---
 ->Run the main program
-\n python Menu.py
+(python Menu.py)
 
 ->Example commands:
 1 - Register a new account
