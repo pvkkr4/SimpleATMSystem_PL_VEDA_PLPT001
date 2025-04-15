@@ -29,11 +29,6 @@ python Menu.py
 4 - Withdraw money
 5 - Check balance
 6 - Exit
-# Clone the repository
-git clone https://github.com/username/SimpleATMSystem.git
-
-# Navigate to the project directory
-cd SimpleATMSystem
 
 # No additional dependencies required - uses Python standard library only
 
